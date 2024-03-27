@@ -41,9 +41,9 @@ $ npx number-guesser-ts
 ? Congratulations! You've guessed the number 4 in 3 attempts.
 ```
 
-**GitHub Repository:** [Arithmetic Calculator](https://github.com/sufiyan2401/Typescript-Command-Project/tree/main/NumberGuessingGame)
+**GitHub Repository:** [Guess The Number](https://github.com/sufiyan2401/Typescript-Command-Project/tree/main/NumberGuessingGame)
 
-**NPM Package:** [Arithmetic Calculator](https://www.npmjs.com/package/prompt-calculator)
+**NPM Package:** [Guess The Number](https://www.npmjs.com/package/prompt-calculator)
 
 
 ## License
