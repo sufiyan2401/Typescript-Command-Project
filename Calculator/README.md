@@ -1,27 +1,55 @@
-# JavaScript Calculator CLI Tool
+# Prompt Calculator
 
-A Calculator CLI tool. 
+A simple calculator written in TypeScript for performing basic arithmetic operations. This calculator can be used via the command line by running `npx prompt-calculator` or by adding it as a dependency with `npm i prompt-calculator`.
 
-This project is available on GitHub at: [GitHub Repository](https://github.com/sufiyan2401/NODE_PROJECTS_GIAIX)
+## Installation
 
+To use the calculator, follow these steps:
 
+1. Install Node.js if you haven't already: [Node.js Installation Guide](https://nodejs.org/en/download/)
 
-## Use The Calculator
+2. Open your terminal or command prompt.
+
+3. Run the following command to install the calculator globally:
+
+   ```
+   npm install -g prompt-calculator
+   ```
+
+## Usage
+
+1. Open your terminal or command prompt.
+
+2. To perform calculations, run:
+
+   ```
+   npx prompt-calculator
+   ```
+
+3. Follow the prompts to enter the first operand, second operand, and select an arithmetic operator (addition, subtraction, multiplication, or division).
+
+4. The calculator will display the result based on your input.
+
+## Example
 
 ```
-npx clibased-calculator24
+$ npx prompt-calculator
+? Enter first operand: 10
+? Enter Second operand: 5
+? Select an arithmetic operator: Addition
+Your value is 15
 ```
 
-## Packages Used
+**GitHub Repository:** [Arithmetic Calculator](https://github.com/sufiyan2401/Typescript-Command-Project/tree/main/Calculator)
 
-[chalk](https://github.com/chalk/chalk) | 
-[inquirer](https://github.com/SBoudrias/Inquirer.js) |
-[gradient-string](https://github.com/bokub/gradient-string) |
-[chalk-animation](https://github.com/bokub/chalk-animation) |
-[figlet](https://github.com/patorjk/figlet.js) |
-[nanospinner](https://github.com/usmanyunusov/nanospinner)
+**NPM Package:** [Arithmetic Calculator](https://www.npmjs.com/package/prompt-calculator)
 
 
-```sh
-npm i chalk chalk-animation figlet gradient-string inquirer nanospinner
-```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Feel free to explore the code, contribute, and use this calculator in your projects! 🚀🔢
+
+## Owner
+Sufiyan Tahir

@@ -1,11 +1,11 @@
 {
-  "name": "clibased-calculator24",
-  "version": "0.1.0",
-  "description": "Who wants to be a JavaScript millionaire?",
+  "name": "prompt-calculator",
+  "version": "0.3.0",
+  "description": "A simple calculator written in TypeScript for performing basic arithmetic operations",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fireship-io/javascript-millionaire"
+    "url": "https://github.com/sufiyan2401/Typescript-Command-Project/tree/main/Calculator"
   },
   "main": "index.js",
   "scripts": {
