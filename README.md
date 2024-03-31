@@ -4,8 +4,9 @@ This repository contains a collection of command-line projects built with TypeSc
 
 ## Projects
 
-- **Project 1 Calculator**: This is a simple number guessing game built with TypeScript and Inquirer.js.
-- **Project 2 Number Guessing Game**: A simple calculator written in TypeScript for performing basic arithmetic operations.
+- **Project 1 Calculator**:  A simple calculator written in TypeScript for performing basic arithmetic operations.
+- **Project 2 Number Guessing Game**:This is a simple number guessing game built with TypeScript and Inquirer.js
+- **Project 3 Atm Simulatron**: This is a simple ATM Simulator built with TypeScript,Inquirer & Chalk.
 
 
 ## Installation

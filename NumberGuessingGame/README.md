@@ -50,7 +50,7 @@ $ npx number-guesser-ts
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to explore the code, contribute, and use this calculator in your projects! 🚀🔢
+Feel free to explore the code, contribute, and use this Guess The Number in your projects! 🚀🔢
 
 ## Owner
 Sufiyan Tahir
